@@ -14,7 +14,7 @@ The idea is summarised in this [Community Blog post](https://communityblog.fedor
 
 When a new person, say Jane, joins the Fedora community, she may or may not
 immediately know what she wants to do. If she doesn't, the Join SIG aims to
-help her explore the community and find a part that interests them.
+help to explore the community and find a part that suits her interests.
 
 So, when Jane gets in touch with the Join SIG, we go through the following
 steps together. Jane does not need to know any of this. We, the community, will
