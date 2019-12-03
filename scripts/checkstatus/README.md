@@ -16,8 +16,8 @@ The script output is as follow:
 * Human name
 * Last seen (date of last FAS login)
 * Groups
- * list of FAS group membership, status and approval date
- * total number of groups the user is member of
+  * list of FAS group membership, status and approval date
+  * total number of groups the user is member of
 * Activities in the last X days:
- * a list of activity topics grabbed from datagrepper
- * total number of activities
+  * a list of activity topics grabbed from datagrepper
+  * total number of activities
