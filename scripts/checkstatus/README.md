@@ -11,6 +11,7 @@ get a list of activities logged from the fedmsg bus.
 
 ## Results
 The script output is as follow:
+
 * Username
 * Human name
 * Last seen (date of last FAS login)
