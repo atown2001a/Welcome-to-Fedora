@@ -11,12 +11,12 @@ get a list of activities logged from the fedmsg bus.
 
 ## Results
 The script output is as follow:
-- Username
-- Human name
-- Last seen (date of last FAS login)
-- Groups
- - list of FAS group membership, status and approval date
- - total number of groups the user is member of
-- Activities in the last X days:
- - a list of activity topics grabbed from datagrepper
- - total number of activities
+* Username
+* Human name
+* Last seen (date of last FAS login)
+* Groups
+** list of FAS group membership, status and approval date
+** total number of groups the user is member of
+* Activities in the last X days:
+** a list of activity topics grabbed from datagrepper
+** total number of activities
