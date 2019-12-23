@@ -22,7 +22,7 @@ handle it all :)
 
 We use tags to mark the status of each ticket. Tags starting with "S:" track
 the status of the ticket from Jane's perspective. Tags starting with "C:" track
-the status of the ticket from the community's perspective.
+the status of the ticket from the community's perspective. Tags starting with "I:" track Jane's interests.
 
 - We add Jane to the [Fedora Join group on Pagure](https://pagure.io/group/fedora-join). This gives Jane permissions to interact with the [Pagure projects that Fedora Join has](https://pagure.io/projects/fedora-join/%2A).
 - Then, we open a new "Hello Fedora World" ticket for Jane. The associated tag is: [S: Hello Fedora World](https://pagure.io/fedora-join/Welcome-to-Fedora/issues?tags=S%3A+Hello+Fedora+world).
