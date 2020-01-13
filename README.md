@@ -1,4 +1,4 @@
-Welcome to Fedora!
+# Welcome to Fedora!
 ------------------
 
 Welcome to the Fedora community! We are the people that make the Fedora operating system (and all the other cool stuff around it)!
