@@ -1,4 +1,4 @@
- <img src="https:\/\/pagure.io\/fedora-join\/Welcome-to-Fedora\/raw\/master\/f\/Artwork\/Welcome-to-Fedora-banner.png" alt="fedora-banner" width="100%"> 
+ <img src="https:\/\/pagure.io\/fedora-join\/Welcome-to-Fedora\/raw\/master\/f\/Artwork\/new-welcome-banner-bitmap.png" alt="fedora-banner-new-logo" width="100%"> 
 # Welcome to Fedora!
 ------------------
 
